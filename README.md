@@ -1,24 +1,38 @@
-# README
+# Project 02
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Market Research Tool for Company Ads
 
-Things you may want to cover:
+------------------------------------------
 
-* Ruby version
+## Project Model
+<img src="./public/model.png" width="100%">
 
-* System dependencies
+------------------------------------------
 
-* Configuration
+## Live Demo Link
 
-* Database creation
+### Front-end:
+https://campaign-ads-markt.netlify.app
 
-* Database initialization
+### Back-end:
+https://campaign-markt.herokuapp.com
 
-* How to run the test suite
+------------------------------------------
 
-* Services (job queues, cache servers, search engines, etc.)
+## Technology Used
 
-* Deployment instructions
+- Ruby on Rails
+- React
+- Bootstrap
 
-* ...
+------------------------------------------
+## Features so far
+
+- Sign up
+- Sign in
+- Explore Galleries
+- Create/Update/Delete Company
+- Create/Update/Delete Gallery
+- Create/Update/Delete Ads
+- Taking a Survey
+- Ads Statistics  
