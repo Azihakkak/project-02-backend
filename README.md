@@ -4,11 +4,6 @@ Market Research Tool for Company Ads
 
 ------------------------------------------
 
-## Project Model
-<img src="./public/model.png" width="100%">
-
-------------------------------------------
-
 ## Live Demo Link
 
 ### Front-end:
