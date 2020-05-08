@@ -1,6 +1,6 @@
-# Project 02
+# Project 02 / Makrt
 
-Makrt - Market Research Tool for Company Ads
+Market Research Tool for Company Ads
 
 ------------------------------------------
 
